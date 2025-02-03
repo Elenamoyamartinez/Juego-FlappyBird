@@ -43,6 +43,7 @@ El juego utiliza los siguientes archivos de recursos:
 ## Imágenes del juego
 ![image](https://github.com/user-attachments/assets/bbc62cc7-a791-4093-a90e-61cf59daaf4f)
 ![image](https://github.com/user-attachments/assets/1195cd4e-59c4-4593-8fe2-023c1ed7dbff)
+![image](https://github.com/user-attachments/assets/69f28669-2157-4418-a9d2-f7f5d23289b0)
 ![image](https://github.com/user-attachments/assets/4b66b8b5-8236-479a-ae59-b3cba04b6179)
 
 
